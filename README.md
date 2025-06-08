@@ -1,3 +1,6 @@
+# THE PROJECT IS IN PAUSE BECAUSE I LOST MY SD CARD :/
+
+
 # 🪐 Saturn Jailbreak
 #Source code is coming soon :3
 
