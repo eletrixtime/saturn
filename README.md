@@ -1,20 +1,10 @@
-# THE PROJECT IS IN PAUSE BECAUSE I LOST MY SD CARD :/
-
-
 # 🪐 Saturn Jailbreak
-#Source code is coming soon :3
 
-**Saturn** is a **jailbreak** for the **Vtech DigiGo** phone.
+**Saturn** is a **jailbreak helper** for the **Vtech DigiGo** phone.
 
-
-## 🧷 Links
-
-**Installation guide** : [here](/docs/INSTALL.md)
-
-**Screenshots** : [here](/docs/SCREENSHOTS.md)
-
-**Credits** : [here](/docs/CREDITS.md)
+Saturn simplify the process with a **very nice installer** and others tools.
 
 
 ## 📝 License
 This project is under the MIT License.
+
